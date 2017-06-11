@@ -1,7 +1,7 @@
 # Materialize Template
 Dieses Template basiert auf HTML5 mit der Materialize Libary.
 
-![screenshots](https://raw.githubusercontent.com/DoM1niC/Materialize-Template/master/screenshots.png)
+![screenshots](https://raw.githubusercontent.com/DoM1niC/Materialize-Template/master/screenshots.jpg)
 
 ## FAQ
 Frage: Wie bearbeite ich einzelne Bereicht?

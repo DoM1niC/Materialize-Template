@@ -3,6 +3,15 @@ Dieses Template basiert auf HTML5 mit der Materialize Library.
 
 ![screenshots](https://raw.githubusercontent.com/DoM1niC/Materialize-Template/master/screenshots.jpg)
 #### Demo: http://demo.dom1nic.eu
+
+## Voraussetzung
+- NGINX oder Apache Webserver
+- PHP 5 / 7 
+
+## Installation
+- Webseite auf beliebigen Server mit PHP kopieren und aufrufen.
+- keine Installation von Datenbanken notwendig, alle Bereiche werden per Hand bearbeitet mit einem Editor.
+
 ## FAQ
 **Frage**: Wie bearbeite ich einzelne Bereiche?
 
@@ -28,10 +37,9 @@ Antwort: sitename.php anpassen!
 
 Antwort: Werden automatisch ausgelesen vom uploads Ordner.
 
-
-## Installation
-Webseite auf beliebigen Server mit PHP kopieren und aufrufen.
-
+## Geplant
+- Shop Script für Fan Artikel
+- Artikel / News Script, verfassen von Inhalten mit einem HTML Editor
 
 ### Verwendete Libraries
 [Materialize](http://materializecss.com/), a CSS Framework based on material design

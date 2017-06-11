@@ -1,3 +1,4 @@
+<section>
       <div id="stream" class="container scrollspy">
             <div class="row">
                     <div class="left-align">
@@ -26,3 +27,4 @@
 		</div>
 		</div>
 		</div>
+</section 

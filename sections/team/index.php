@@ -1,4 +1,4 @@
-<section id="team" class="">
+<section id="team" class="grey lighten-2">
       <div class="container scrollspy">
     <div class="row">
                     <div class="left-align">
@@ -7,7 +7,7 @@
      <div class="col s12 m3">
        <div class="card">
             <div class="card-image">
-		  <img src="img/avatar.png"</img>  
+		  <img src="img/avatar/1.png"</img>  
 		</div>     
             <div class="card-content">
            <span class="card-title"><i class="material-icons">credit_card</i>Nickname</span>
@@ -29,7 +29,7 @@
      <div class="col s12 m3">
        <div class="card">
             <div class="card-image">
-		  <img src="img/avatar.png"</img>  
+		  <img src="img/avatar/2.png"</img>  
 		</div>     
             <div class="card-content">
            <span class="card-title"><i class="material-icons">credit_card</i>Nickname</span>
@@ -51,7 +51,7 @@
      <div class="col s12 m3">
        <div class="card">
             <div class="card-image">
-		  <img src="img/avatar.png"</img>  
+		  <img src="img/avatar/3.png"</img>  
 		</div>     
             <div class="card-content">
            <span class="card-title"><i class="material-icons">credit_card</i>Nickname</span>
@@ -73,7 +73,7 @@
      <div class="col s12 m3">
        <div class="card">
             <div class="card-image">
-		  <img src="img/avatar.png"</img>  
+		  <img src="img/avatar/4.png"</img>  
 		</div>     
             <div class="card-content">
            <span class="card-title"><i class="material-icons">credit_card</i>Nickname</span>

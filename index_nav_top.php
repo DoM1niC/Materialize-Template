@@ -48,11 +48,11 @@
 <!-- About Me -->
       <?php include("sections/aboutme/index.php"); ?>    
 
-<!-- Team -->
-      <?php //include("sections/team/index.php"); ?>  
- 
 <!-- Streaming -->
-      <?php //include("sections/streaming/index.php"); ?>    
+      <?php include("sections/streaming/index.php"); ?>  
+
+<!-- Team -->
+      <?php include("sections/team/index.php"); ?>  
 
 <!-- PHP Include Pages -->
 <?php

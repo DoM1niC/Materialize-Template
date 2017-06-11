@@ -14,6 +14,10 @@
 .padding {
     padding: 0% 10% 0%;
 }
+.pagination .active a {
+    background-color: #2196F3;
+    color: #ffffff;
+}
 .header-overlay {
     position: absolute;
     bottom: 0;

@@ -37,6 +37,10 @@ Antwort: sitename.php anpassen!
 
 Antwort: Werden automatisch ausgelesen vom uploads Ordner.
 
+**Frage:** Wie setze ich den Zeitplan?
+
+Antwort: Einfach mit einem beliebigen Editor unter sections/timetable.json bearbeiten.
+
 ## Geplant
 - Shop Script für Fan Artikel
 - Artikel / News Script, verfassen von Inhalten mit einem HTML Editor

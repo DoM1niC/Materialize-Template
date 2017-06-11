@@ -16,7 +16,7 @@
 }
 .pagination .active a {
     background-color: #2196F3;
-    color: #ffffff;
+    color: #fff;
 }
 .header-overlay {
     position: absolute;
@@ -56,7 +56,10 @@
     height: 350px;
     width: 400px;
 }
-        
+.modal-middle {
+    height: 100%;
+    width: 50%;
+}       
 .promo-caption {
     font-size: 1.7rem;
     font-weight: 500;

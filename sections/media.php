@@ -10,10 +10,14 @@
 $images = glob("uploads/img/*.{[jJ][pP][gG],[pP][nN][gG],[gG][iI][fF]}", GLOB_BRACE);
 ?>
                <?php
+define("PER_PAGE_COUNT", 2);
+$startIndex = isset($_GET["p"]) ? intval($_GET["p"]) * PER_PAGE_COUNT : 0;
+$index = -1;
 foreach($images as $img) {
+$index++;
+if ($index < $startIndex || $index > $startIndex + PER_PAGE_COUNT - 1) continue;
 $img = explode("/", $img);
 $img = $img[sizeof($img)-1];
-
 ?>
         <div class="col s12 m6">
           <div class="card">
@@ -24,6 +28,11 @@ $img = $img[sizeof($img)-1];
           </div>
         </div>
 <?php } ?>
+<ul class="pagination">
+<?php for ($i = 0;$i<sizeof($images)/PER_PAGE_COUNT;$i++) { ?>
+<li class="<?= $i == $_GET["p"] ? "active" : "waves-effect" ?>"><a href="./?page=media&p=<?= $i ?>#show"><?= ($i+1) ?></a></li>
+<?php } ?>
+</ul>
             </div>
             </div>
            <div class="container">
@@ -37,7 +46,11 @@ $videos = glob("uploads/videos/*.[mM][pP]4", GLOB_BRACE);
 ?>
             <div class="row">
                <?php
+$startIndex = isset($_GET["v"]) ? intval($_GET["v"]) * PER_PAGE_COUNT : 0;
+$index = -1;
 foreach($videos as $video) {
+$index++;
+if ($index < $startIndex || $index > $startIndex + PER_PAGE_COUNT - 1) continue;
 $video = explode("/", $video);
 $video = $video[sizeof($video)-1];
 
@@ -54,6 +67,11 @@ $video = $video[sizeof($video)-1];
     
 
 <?php } ?>
+<ul class="pagination">
+<?php for ($i = 0;$i<sizeof($videos)/PER_PAGE_COUNT;$i++) { ?>
+<li class="<?= $i == $_GET["v"] ? "active" : "waves-effect" ?>"><a href="./?page=media&v=<?= $i ?>#show"><?= ($i+1) ?></a></li>
+<?php } ?>
+</ul>
         </div>
         </div>
 </section>

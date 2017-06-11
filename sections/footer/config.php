@@ -21,6 +21,8 @@ if (isset($title, $text)) {
         $mail->Username = MAIL_USER;
         $mail->Password = MAIL_PASS; 
         $mail->setFrom(MAIL_ADDR, MAIL_NAME);
+	$mail->Timeout=4;
+	$mail->Timelimit=4;
 
         $mail->addAddress("info@mymail.de", "Tester");
 

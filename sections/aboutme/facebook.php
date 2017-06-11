@@ -20,7 +20,7 @@ error_reporting(E_ERROR);
 
 define('MAX_COUNT', 4);
 
-require_once "facebook/facebook.php";
+require_once "../../facebook/facebook.php";
 
 $fb = new Facebook(
     [

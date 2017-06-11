@@ -1,5 +1,5 @@
         $(document).ready(function () {
-            $.get("./facebook.php").done(function (data) {
+            $.get("./sections/aboutme/facebook.php").done(function (data) {
                 var posts = JSON.parse(data);
                 if (posts["success"] == true) {
                     $("#post-container").html("");

@@ -4,7 +4,7 @@ Dieses Template basiert auf HTML5 mit der Materialize Library.
 ![screenshots](https://raw.githubusercontent.com/DoM1niC/Materialize-Template/master/screenshots.jpg)
 
 ## FAQ
-**Frage**: Wie bearbeite ich einzelne Bereicht?
+**Frage**: Wie bearbeite ich einzelne Bereiche?
 
 Antwort: Fast alle Bereiche können über die PHP Dateien bearbeitet werden mit puren HTML5, sonst Index.php anpassen! (Siehe Ordner section,modals usw.)
 
@@ -22,6 +22,12 @@ Antwort: section/aboutme/facebook.php bearbeiten!
 **Frage:** Wie setze ich den Namen der Seite?
 
 Antwort: sitename.php anpassen!
+
+
+**Frage:** Bilder & Video Gallerie Inhalte?
+
+Antwort: Werden automatisch ausgelesen vom uploads Ordner.
+
 
 ## Installation
 Webseite auf beliebigen Server mit PHP kopieren und aufrufen.

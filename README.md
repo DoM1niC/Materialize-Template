@@ -1,25 +1,25 @@
 # Materialize Template
-Dieses Template basiert auf HTML5 mit der Materialize Libary.
+Dieses Template basiert auf HTML5 mit der Materialize Library.
 
 ![screenshots](https://raw.githubusercontent.com/DoM1niC/Materialize-Template/master/screenshots.jpg)
 
 ## FAQ
-Frage: Wie bearbeite ich einzelne Bereicht?
+**Frage**: Wie bearbeite ich einzelne Bereicht?
 
-Antwort: Fast alle Bereiche können über die PHP Dateien bearbeitet werden mit puren HTML5, sonst Index.php anpassen! (Siehe Ordner section,modals usw.)
+Antwort: Fast alle Bereiche kÃ¶nnen Ã¼ber die PHP Dateien bearbeitet werden mit puren HTML5, sonst Index.php anpassen! (Siehe Ordner section,modals usw.)
 
 
-Frage: Wie setze ich den SMTP Server für das Kontaktformular fest?
+**Frage**: Wie setze ich den SMTP Server fÃ¼r das Kontaktformular fest?
 
 Antwort: section/footer/config.php bearbeiten!
 
 
-Frage: Wie setze ich mein Facebook Konto unter "Über Mich"?
+**Frage:** Wie setze ich mein Facebook Konto unter "Ãœber Mich"?
 
 Antwort: section/aboutme/facebook.php bearbeiten!
 
 
-Frage: Wie setze ich den Namen der Seite?
+**Frage:** Wie setze ich den Namen der Seite?
 
 Antwort: sitename.php anpassen!
 

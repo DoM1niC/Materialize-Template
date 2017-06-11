@@ -1,0 +1,2 @@
+<span><i style="vertical-align:middle" class="material-icons">email</i>E-Mail: <a href="#contact">info@dom1nic.eu</span></a>
+<p><i style="vertical-align:middle" class="material-icons">phone</i>Tel: +49(351)555544</p>

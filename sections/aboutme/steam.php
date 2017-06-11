@@ -1,0 +1,1 @@
+<a target="_blank" href="http://steamcommunity.com/id/djdom1nic"><img width="100%" src="http://steamsignature.com/profile/german/76561198004809757.png"></a>

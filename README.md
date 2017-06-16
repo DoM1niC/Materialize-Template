@@ -15,17 +15,17 @@ Dieses Template basiert auf HTML5 mit der Materialize Library.
 ## FAQ
 **Frage**: Wie bearbeite ich einzelne Bereiche?
 
-Antwort: Fast alle Bereiche können über die PHP Dateien bearbeitet werden mit puren HTML5, sonst Index.php anpassen! (Siehe Ordner section,modals usw.)
+Antwort: Fast alle Bereiche können über die PHP Dateien bearbeitet werden mit puren HTML5, sonst Index.php anpassen! (Siehe Ordner sections,modals usw.)
 
 
 **Frage**: Wie setze ich den SMTP Server für das Kontaktformular fest?
 
-Antwort: section/footer/config.php bearbeiten!
+Antwort: sections/footer/config.php bearbeiten!
 
 
 **Frage:** Wie setze ich mein Facebook Konto unter "Über Mich"?
 
-Antwort: section/aboutme/facebook.php bearbeiten!
+Antwort: sections/aboutme/facebook.php bearbeiten!
 
 
 **Frage:** Wie setze ich den Namen der Seite?
@@ -37,12 +37,18 @@ Antwort: sitename.php anpassen!
 
 Antwort: Werden automatisch ausgelesen vom uploads Ordner.
 
+
 **Frage:** Wie setze ich den Zeitplan?
 
 Antwort: Einfach mit einem beliebigen Editor unter sections/timetable.json bearbeiten.
 
+
+**Frage:** Wie füge ich Produkte in den Shop?
+
+Antwort: Unter sections/shop_products.php beliebige Einträge bearbeiten und hinzufügen.
+
+
 ## Geplant
-- Shop Script für Fan Artikel
 - Artikel / News Script, verfassen von Inhalten mit einem HTML Editor
 
 ### Verwendete Libraries

@@ -48,4 +48,8 @@
    $('.scrollspy').scrollSpy();
    $('.collapsible').collapsible();
    $('.modal').modal();
+    	NProgress.start();
+    	setTimeout(function() { NProgress.set(0.45); $('.fade').removeClass('out'); }, 1500);
+    	setTimeout(function() { NProgress.set(0.80); $('.fade').removeClass('out'); }, 2200);
+    	setTimeout(function() { NProgress.done(); $('.fade').removeClass('out'); }, 3000);
   });   

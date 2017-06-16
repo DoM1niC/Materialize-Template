@@ -10,3 +10,4 @@
     <link href="vendor/css/videojs-resolution-switcher.css" rel="stylesheet" type="text/css">
     <link href="vendor/css/video-js.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/nprogress.css" rel="stylesheet">

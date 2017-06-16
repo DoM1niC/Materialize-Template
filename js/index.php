@@ -13,4 +13,5 @@
     <script src="vendor/js/videojs-contrib-hls.min.js"></script>
     <script src="vendor/js/videojs-resolution-switcher.js"></script>
     <script src="vendor/js/nprogress.js"></script>
+    <script src="vendor/js/qrious.min.js"></script>
     <script src="js/scripts.js"></script>

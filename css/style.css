@@ -320,20 +320,6 @@ background-color: #2196F3;
 .img {
 padding:5px;
 }     
-h2 {
-    font-size: 3.56rem;
-    line-height: 110%;
-    margin: 1.78rem 0 1.424rem 0;
-    -webkit-margin-before: 0.83em;
-    -webkit-margin-after: 0.83em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-}
-plugin-min.css:6
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 400;
-    line-height: 1.1;
-}
 .center, .center-align {
     text-align: center;
 }
@@ -376,4 +362,9 @@ z-index: 998;
 .collapsible.noborder {
     border: none;
     box-shadow: none;
+}
+.h5-text { 
+    display: block;
+    font-size: 1.90em;
+    font-weight: bold;
 }

@@ -27,11 +27,11 @@
 <td>128 GB SSD<br>240 GB SSD<br>525 GB SSD<br>1TB HDD</td>
 </tr>
 <tr>
-<td><img style="vertical-align:middle" src="img/hardware/power.png" width="29"></img> Netzteil</td>
+<td><img style="vertical-align:middle" src="img/hardware/power.png" width="22"></img> Netzteil</td>
 <td>Sharkoon WPM700</td>
 </tr>
 <tr>
-<td><img style="vertical-align:middle" src="img/hardware/connection.png" width="29"></img> Anbindung</td>
+<td><img style="vertical-align:middle" src="img/hardware/connection.png" width="25"></img> Anbindung</td>
 <td>Vodafone Business Kabel 400<br>400Mbit Download<br>30Mbit Upload</td>
 </tr>
 </tbody>

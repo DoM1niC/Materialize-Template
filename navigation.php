@@ -6,8 +6,8 @@
         <li><a href="#stream"><i class="fa fa-white fa-video-camera fa-1x" aria-hidden="true"></i>&nbsp; Stream</a></li>
         <li><a href="index.php?page=timetable#show"><i class="fa fa-white fa-clock-o fa-1x" aria-hidden="true"></i>&nbsp; Zeitplan</a></li>
         <li><a href="index.php?page=shop#show"><i class="fa fa-white fa-shopping-cart fa-1x" aria-hidden="true"></i>&nbsp; Shop</a></li>
-        <li><a class=""modal-trigger" href="#voiceserver"><i class="fa fa-white fa-microphone fa-1x" aria-hidden="true"></i>&nbsp; Voiceserver</a></li>
-        <li><a class=""modal-trigger" href="#gameserver"><i class=fa fa-white fa-gamepad fa-1x" aria-hidden="true"></i>&nbsp; Gameserver</a></li>
+        <li><a class="modal-trigger" href="#voiceserver"><i class="fa fa-white fa-microphone fa-1x" aria-hidden="true"></i>&nbsp; Voiceserver</a></li>
+        <li><a class="modal-trigger" href="#gameserver"><i class="fa fa-white fa-gamepad fa-1x" aria-hidden="true"></i>&nbsp; Gameserver</a></li>
         <li><a href="index.php?page=media#show"><i class="fa fa-white fa-picture-o fa-1x" aria-hidden="true"></i>&nbsp; Media</a></li>
         <li><a href="#contact"><i class="fa fa-white fa-envelope-o fa-1x" aria-hidden="true"></i>&nbsp; Kontakt</a></li>
   	<li><a class='dropdown-button' href='#' data-activates='dropdown2'><i class="fa fa-white fa-pencil fa-1x" aria-hidden="true"></i>&nbsp; Style</a><li>

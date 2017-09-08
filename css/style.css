@@ -18,6 +18,16 @@
     background-color: #2196F3;
     color: #fff;
 }
+.tabs .tab a.active {
+  color: #2196F3;
+}
+.dropdown-content li > a, .dropdown-content li > span {
+  font-size: 16px;
+  color: #2196F3;
+  display: block;
+  line-height: 22px;
+  padding: 14px 16px;
+}
 .header-overlay {
     position: absolute;
     bottom: 0;
